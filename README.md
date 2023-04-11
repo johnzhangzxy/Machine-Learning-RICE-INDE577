@@ -1,6 +1,6 @@
 # Machine_Learning_INDE577-Rice
 
-Course taken at Rice University with Dr. Randy R. Davila, Adjunct Professor of Computational and Applied Mathematics at Rice
+Course taken at Rice University with Dr. Randy R. Davila, Adjunct Professor of Computational and Applied Mathematics at Rice Univeristy.
 
 This is the homework repository associated with this course. 
 
