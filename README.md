@@ -1,3 +1,7 @@
+
+
+<img src="[https://images.deepai.org/glossary-terms/dd6cdd6fcfea4af1a1075aac0b5aa110/sgd.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.totalphase.com%2Fblog%2F2022%2F11%2Fmachine-learning-and-a-i-examples-pros-and-cons%2F&psig=AOvVaw04t96i-dngdREDtSpGOwFK&ust=1681260628810000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPj9rIbOoP4CFQAAAAAdAAAAABAE)" alt="SGD" width="400">
+
 # Machine_Learning_INDE577-Rice
 
 Course taken at Rice University with Dr. Randy R. Davila, Adjunct Professor of Computational and Applied Mathematics at Rice Univeristy.
