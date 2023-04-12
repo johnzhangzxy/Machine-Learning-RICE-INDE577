@@ -4,7 +4,7 @@
 
 # Machine Learning INDE577-Rice
 
-Course taken at Rice University with Dr. Randy R. Davila, Adjunct Professor of Computational and Applied Mathematics at Rice Univeristy.
+Course taken at Rice University with Dr. Randy R. Davila, Assistant Professor of Data Science at University of Houston-Downtown and Adjunct Professor of Computational and Applied Mathematics at Rice Univeristy.
 
 This is the homework repository associated with this course. 
 
@@ -33,4 +33,4 @@ Topics include:
     - Tabular versus Deep Learning Methods
  
 
-Used Python versions 3.6 and higher.
+The Python versions used in the course were 3.6 and higher.
