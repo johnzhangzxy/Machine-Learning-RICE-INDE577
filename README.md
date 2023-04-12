@@ -2,7 +2,7 @@
 
 <img src="https://www.totalphase.com/media/blog/2022/11/ml-e1610553826718.jpg" alt="SGD" width="600">
 
-# Machine_Learning_INDE577-Rice
+# Machine Learning INDE577-Rice
 
 Course taken at Rice University with Dr. Randy R. Davila, Adjunct Professor of Computational and Applied Mathematics at Rice Univeristy.
 
