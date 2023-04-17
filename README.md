@@ -16,17 +16,16 @@ Topics include:
 
 - **Supervised Learning**:
     - Model Building and Error Analysis
-    - Linear Regression
-    - Gradient Descent
-    - Logistic Regression
+    - Gradient Descent - Regression
+    - Gradient Descent - Logistic Regression
     - Neural Nets
-    - Support Vector Machines
     - k-Nearest Neighbors
     - Decision/ Regression Trees
     - Ensemble Learning
 
 - **Unsupervised Learning**:
     - k-Means Clustering
+    - DBSCAN Clustering
     - Principle Component Analysis
 
 - **Reinforcement Learning**:
