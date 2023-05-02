@@ -32,7 +32,7 @@ Topics include:
     - Tabular versus Deep Learning Methods
  
 
-The Python versions used in the course were 3.9 and higher.
+The Python versions used in the course were 3.7 and higher.
 
 ### Credits
 
