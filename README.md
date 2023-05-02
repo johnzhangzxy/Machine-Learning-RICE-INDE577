@@ -29,7 +29,7 @@ Topics include:
     - Principle Component Analysis
 
 - **Reinforcement Learning**:
-    - Tabular versus Deep Learning Methods
+    - Tabular
  
 
 The Python versions used in the course were 3.7 and higher.
