@@ -38,5 +38,5 @@ The Python versions used in the course were 3.7 and higher.
 
 This repository is inspired by the following repositories: 
 
-- https://github.com/TianjianSun/INDE577-Rice-University
 - https://github.com/RandyRDavila/Data_Science_and_Machine_Learning_Spring_2022
+- - https://github.com/TianjianSun/INDE577-Rice-University
